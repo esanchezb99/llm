@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "nom": "Hotel Saratoga",
+        "estrelles": "4",
+        "dir": "Passeig de Mallorca, 6, 07012",
+        "loc": "Palma, Illes Balears",
+        "tel": "971727240",
+        "email": "hotal@hsaratoga.es"
+    },
+    {
+        "id": 0,
+        "nom": "Hotel Sa Coma",
+        "estrelles": "4",
+        "dir": "Camí des Molí, 3, 07191 ",
+        "loc": "Banyalbufar, Illes Balears",
+        "tel": "971618034",
+        "email": "hotel@sacoma.es"
+    },
+    {
+        "id": 0,
+        "nom": "CM Mallorca Palace",
+        "estrelles": "5",
+        "dir": "Avinguda de les Savines, 148, 07560 ",
+        "loc": "Sa Coma, Illes Balears",
+        "tel": "971812009",
+        "email": "hotel@cmmallorcaplace.es"
+    }
+]
