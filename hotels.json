@@ -1,29 +1,38 @@
 [
     {
         "id": 0,
-        "nom": "Hotel Saratoga",
+        "nom": "AC Hotel Ciutat de Palma",
         "estrelles": "4",
-        "dir": "Passeig de Mallorca, 6, 07012",
+        "dir": "Pza. Puente 3, 07014 ",
         "loc": "Palma, Illes Balears",
-        "tel": "971727240",
-        "email": "hotal@hsaratoga.es"
+        "tel": "971 22 23 00",
+        "email": "hotel@achotel.es",
+        "checkin": "20",
+        "checkout": "17:47:00.000",
+        "mascotes": "on"
     },
     {
-        "id": 0,
-        "nom": "Hotel Sa Coma",
-        "estrelles": "4",
-        "dir": "Camí des Molí, 3, 07191 ",
-        "loc": "Banyalbufar, Illes Balears",
-        "tel": "971618034",
-        "email": "hotel@sacoma.es"
-    },
-    {
-        "id": 0,
-        "nom": "CM Mallorca Palace",
+        "id": 1,
+        "nom": "Gran Meliá Victoria",
         "estrelles": "5",
-        "dir": "Avinguda de les Savines, 148, 07560 ",
-        "loc": "Sa Coma, Illes Balears",
-        "tel": "971812009",
-        "email": "hotel@cmmallorcaplace.es"
+        "dir": "Avinguda de Joan Miró, 21, 07014",
+        "loc": "Palma, Illes Balears",
+        "tel": "912 76 47 47",
+        "email": "hotel@melia.es",
+        "checkin": "70",
+        "checkout": "17:50:00.000",
+        "mascotes": ""
+    },
+    {
+        "id": 2,
+        "nom": "Hotel Don Carlos",
+        "estrelles": "3",
+        "dir": "Carrer de les Malgrats, 22, 07160",
+        "loc": "Peguera, Illes Balears",
+        "tel": "971 34 94 46",
+        "email": "hotel@doncarlos.es",
+        "checkin": "20",
+        "checkout": "21:46:00.000",
+        "mascotes": ""
     }
 ]
