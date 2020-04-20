@@ -9,7 +9,39 @@
         "email": "hotel@achotel.es",
         "checkin": "20",
         "checkout": "17:47:00.000",
-        "mascotes": "on"
+        "mascotes": "on",
+        "room": [
+            {
+                "single":[
+                    {"included":["wifi","tv"]},
+                    {"price_winter":20},
+                    {"price_spring":40},
+                    {"price_summer":120},
+                    {"price_autum":40},
+                    {"price_ofer_percent":25}
+
+                ],
+                "doble":[
+                    {"included":["wifi","tv","minibar","balcon"]},
+                    {"price_winter":30},
+                    {"price_spring":60},
+                    {"price_summer":150},
+                    {"price_autum":60},
+                    {"price_ofer_percent":30}
+
+                ],
+                
+                
+                "lux":[
+                    {"included":["wifi","tv","jacuzzi","lavanderia","minibar","balcon"]},
+                    {"price_winter":100},
+                    {"price_spring":160},
+                    {"price_summer":350},
+                    {"price_autum":160}
+                    
+                ]
+            }
+        ]
     },
     {
         "id": 1,
@@ -21,18 +53,66 @@
         "email": "hotel@melia.es",
         "checkin": "70",
         "checkout": "17:50:00.000",
-        "mascotes": ""
+        "mascotes": "",
+        "room": [
+            {
+                "bussines":[
+                    {"included":["wifi-100mb","tv","lavanderia","escritorio","Servicio de habitaciones extendido"]},
+                    {"extra_include":["parking","servicio de impresion","bufet","spa/gym","Padel"]},
+                    {"price_winter":80},
+                    {"price_spring":200},
+                    {"price_summer":100},
+                    {"price_autum":80}
+                    
+                ],
+
+                "single":[
+                    {"included":["wifi","tv","spa/gym","minibar"]},
+                    {"extra_include":["parking","lavanderia","bufet","spa/gym","Padel"]},
+                    {"price_winter":60},
+                    {"price_spring":80},
+                    {"price_summer":120},
+                    {"price_autum":60}
+
+                ],
+
+                "doble":[
+                    {"included":["wifi","tv","minibar","balcon"]},
+                    {"extra_include":["parking","lavanderia","bufet","spa/gym","Padel"]},
+                    {"price_winter":90},
+                    {"price_spring":120},
+                    {"price_summer":170},
+                    {"price_autum":100},
+                    {"price_ofer_percent":30}
+                ]
+            }
+        ]
+        
     },
     {
         "id": 2,
         "nom": "Hotel Don Carlos",
-        "estrelles": "3",
+        "estrelles": "1",
         "dir": "Carrer de les Malgrats, 22, 07160",
         "loc": "Peguera, Illes Balears",
         "tel": "971 34 94 46",
         "email": "hotel@doncarlos.es",
         "checkin": "20",
         "checkout": "21:46:00.000",
-        "mascotes": ""
+        "mascotes": "",
+        "room": [
+            {
+                
+                "doble":[
+                    {"included":["wifi","tv","minibar","balcon","piscina"]},
+                    {"extra_include":["parking"]},
+                    {"price_winter":30},
+                    {"price_spring":40},
+                    {"price_summer":100},
+                    {"price_autum":40}
+                ]
+            
+            }
+        ]
     }
 ]
